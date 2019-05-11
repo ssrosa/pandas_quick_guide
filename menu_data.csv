@@ -1,0 +1,14 @@
+dish,protein,temperature_F,price_USD,spicy ,gluten,dairy,tree nuts,peanuts_True,peanuts_False,eggs_True,eggs_False,fish
+pad thai,egg,160,12.5,4,noodles,NaN,cashew,1,0,1,0,shrimp
+beef wellington,beef tenderloin,160,17,0,puff pastry,butter,NaN,0,1,0,1,NaN
+chicken parmigiana,chicken,160,15,1,breadcrumbs,cheese,NaN,0,1,1,0,NaN
+coq au vin,chicken,160,14.75,0,NaN,butter,NaN,0,1,0,1,NaN
+larb,ground beef,35,13.25,3,NaN,NaN,cashew,1,0,1,0,fish sauce
+peanut soup,NaN,150,11,3,NaN,NaN,NaN,1,0,0,1,NaN
+ropa vieja,shredded pork,145,16,2,NaN,NaN,NaN,0,1,0,1,NaN
+quiche lorraine,bacon,76,13,0,rough puff,cheese,NaN,0,1,1,0,NaN
+aloo dum,NaN,160,12.25,4,NaN,ghee,NaN,0,1,0,1,NaN
+dan dan noodles,pork,90,10.5,5,noodles,NaN,cashew,1,0,1,0,NaN
+tortilla espanola,NaN,80,9.85,0,NaN,cream,NaN,0,1,1,0,NaN
+beet salad,cured salmon,42,12.4,1,NaN,goat cheese,hazelnuts,0,1,0,1,gravlax
+samosas,chicken,120,8.75,5,rough puff,ghee,NaN,0,1,1,0,NaN
